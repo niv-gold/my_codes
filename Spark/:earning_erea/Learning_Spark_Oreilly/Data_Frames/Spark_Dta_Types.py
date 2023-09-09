@@ -1,7 +1,6 @@
 import pyspark 
 from datetime import datetime
 from pyspark.sql.types import IntegerType, StringType, StructType, StructField, DoubleType, TimestampType, DecimalType, DateType, LongType
-import chispa
 # -----------------------------------------------------------------
 # schema configurations
 # -----------------------------------------------------------------
