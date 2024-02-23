@@ -6,3 +6,11 @@ GRANT ALL PRIVILEGES ON *.* TO 'niv2'@'localhost';
 GRANT SELECT, INSERT, UPDATE ON mydatabase.* TO 'niv2'@'localhost';
 FLUSH PRIVILEGES;
 EXIT;
+
+
+
+SELECT host FROM mysql.user WHERE user = 'niv2';
+
+
+  git config --global user.email "nivgoldberg1@gmail.com"
+  git config --global user.name "niv"
