@@ -1,16 +1,3 @@
-# missions:
-# 1. connect to rest_api that holds the data
-# 2. check the return information type: text, json..
-# 3. isolatated 5 attributes and save them in pandas dataframe
-# 5.1 convert the request into JSON
-# 5.2 exact 5 elements from JSON that are columns with data
-# 4. clean the data: nulls, trim acces white spaces and more
-# 5. creat a connection to mysql DB
-# 6. store the data in the DB 
-# 7. delete data from DB.
-# 8. update data in the DB.
-# 9 extract data from DB to be present in looker AWS report system 
-
 #----------------------------------------------
 # API details
 #----------------------------------------------

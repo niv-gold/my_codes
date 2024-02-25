@@ -10,7 +10,7 @@ with open('data.json', 'w') as outfile:
 import json
 with open('data.json', 'r') as infile:
     data = json.load(infile)
-    print(data)  # `data` is now a Python dictionary or list.
+    print(data)  # `data` is now a Python dictionary.
     print(data['name'])
     print(data['age'])
 
