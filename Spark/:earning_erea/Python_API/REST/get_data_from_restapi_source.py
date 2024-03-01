@@ -7,7 +7,6 @@
 # OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=fc4b3c2c
 
 import requests as req
-import pandas as pd
 
 # connect to rest_api that holds the data
 
@@ -34,10 +33,6 @@ def get_api_data(url:str):
 
     req_json = request.json()
     print(f'request as a json: {req_json}')
-
-    print(f'row type: {str(type(req_text))}')
-    print(f'json type: {str(type(req_json))}')
-
 
 # run the code
 api_url = 'http://www.omdbapi.com/?'

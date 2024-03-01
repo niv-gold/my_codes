@@ -1,18 +1,30 @@
 import pandas as pd
-from pandas import json_normalize
 
-# Sample JSON object with a nested list
-nested_json_with_list = {
-    "school_name": "XYZ High School",
-    "location": "City Z",
-    "students": [
-        {"name": "John", "age": 17, "grade": "A"},
-        {"name": "Daisy", "age": 16, "grade": "B"},
-        {"name": "Luke", "age": 17, "grade": "C"}
-    ]
+# Sample DataFrame
+data = {
+    'Name': ['John Doe', 'Jane Smith'],
+    'Age': [28, 34],
+    'Occupation': ['Data Scientist', 'Engineer']
 }
+df = pd.DataFrame(data)
 
-# Flatten the JSON object focusing on the 'students' list
-flat_with_list = json_normalize(nested_json_with_list, record_path='students', meta=['school_name', 'location'])
+# Convert DataFrame to JSON
+json_str = df.to_json()
 
-print(flat_with_list)
+print(json_str)
+
+# Convert DataFrame to JSON with different orientations
+json_records = df.to_json(orient='records')
+json_columns = df.to_json(orient='columns')
+json_index = df.to_json(orient='index')
+json_values = df.to_json(orient='values')
+
+print("JSON Records:")
+print(json_records)
+print("\nJSON Columns:")
+print(json_columns)
+print("\nJSON Index:")
+print(json_index)
+print("\nJSON Values:")
+print(json_values)
+

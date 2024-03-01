@@ -1,0 +1,740 @@
+[
+    {
+        "_id": 801965,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/36FtYEYmqrp7kIQqjrYhWXBnXJm.jpg",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "original_title": "Breaking",
+        "overview": "Desperate for money and running out of options, Marine veteran Brian Brown-Easley holds several people hostage inside a bank, setting the stage for a tense confrontation with police.",
+        "poster_path": "https://image.tmdb.org/t/p/original/rKbgbzJbVM7MLjN7EwdO1QcIXCz.jpg",
+        "release_date": "2022-08-25",
+        "title": "Breaking",
+        "vote_average": 6.7,
+        "vote_count": 80,
+        "youtube_trailer": "https://www.youtube.com/watch?v=5Vi3EhaNOII",
+        "sources": [
+            {
+                "source": "vudu",
+                "link": "https://www.vudu.com/movies/#!content/2074395",
+                "type": "purchase",
+                "display_name": "Vudu",
+                "info": "http://www.vudu.com/",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=air.com.vudu.air.DownloaderTablet",
+                    "android_tv": "air.com.vudu.air.DownloaderTablet",
+                    "ios": "https://apps.apple.com/us/app/vudu-movies-tv/id487285735",
+                    "web": "http://www.vudu.com/"
+                }
+            },
+            {
+                "source": "paramount_plus",
+                "link": "https://www.paramountplus.com/movies/video/RKIq_zkhb5FXjXp7K1tSKDjF247ZAlVL/",
+                "type": "subscription",
+                "display_name": "Paramount+",
+                "info": "http://www.paramountplus.com/",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=com.cbs.app",
+                    "android_tv": "com.cbs.app",
+                    "ios": "https://apps.apple.com/us/app/paramount/id530168168",
+                    "web": "http://www.paramountplus.com/"
+                }
+            }
+        ],
+        "contentType": "movie",
+        "first_aired": NaN
+    },
+    {
+        "_id": 559969,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/yzpZVgaTZzDrAP1yVeCbKZH9jmA.jpg",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller",
+            "Action & Adventure"
+        ],
+        "original_title": "El Camino: A Breaking Bad Movie",
+        "overview": "In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.",
+        "poster_path": "https://image.tmdb.org/t/p/original/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg",
+        "release_date": "2019-10-11",
+        "title": "El Camino: A Breaking Bad Movie",
+        "vote_average": 6.941,
+        "vote_count": 4271,
+        "youtube_trailer": "https://www.youtube.com/watch?v=rklOejPnD3Y",
+        "sources": [
+            {
+                "source": "netflix",
+                "link": "https://www.netflix.com/watch/81078819",
+                "type": "subscription",
+                "display_name": "Netflix",
+                "info": "http://www.netflix.com/",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient",
+                    "android_tv": "com.netflix.ninja",
+                    "ios": "http://apps.apple.com/app/netflix/id363590051",
+                    "web": "http://www.netflix.com/"
+                }
+            }
+        ],
+        "contentType": "movie",
+        "first_aired": NaN
+    },
+    {
+        "_id": 19050,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/mZP6RmsSUAA46s1Dl1tjhCzhTUs.jpg",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "original_title": "The Bad News Bears in Breaking Training",
+        "overview": "A troubled, rebellious teen drives his rambunctious baseball team out to Houston where they play an exhibition game and the boy meets his estranged father, and hires him as the teams coach.",
+        "poster_path": "https://image.tmdb.org/t/p/original/cAwVRX1EsnSKzvo5HEA4S2rBoDA.jpg",
+        "release_date": "1977-07-08",
+        "title": "The Bad News Bears in Breaking Training",
+        "vote_average": 5.9,
+        "vote_count": 32,
+        "youtube_trailer": "https://www.youtube.com/watch?v=C67D20c_Kls",
+        "sources": [
+            {
+                "source": "cbs",
+                "link": "https://www.cbs.com/movies/bad-news-bears-in-breaking-training/WnQkwdy86fd_mbT7yCJWGVw3VzCyR0Lr/",
+                "type": "subscription"
+            },
+            {
+                "source": "vudu",
+                "link": "https://www.vudu.com/movies/#!content/24550",
+                "type": "purchase",
+                "display_name": "Vudu",
+                "info": "http://www.vudu.com/",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=air.com.vudu.air.DownloaderTablet",
+                    "android_tv": "air.com.vudu.air.DownloaderTablet",
+                    "ios": "https://apps.apple.com/us/app/vudu-movies-tv/id487285735",
+                    "web": "http://www.vudu.com/"
+                }
+            },
+            {
+                "source": "paramount_plus",
+                "link": "https://www.paramountplus.com/movies/video/ftGtgia6NQu4FQvBvi_8QHgoNu2Z5jtd/",
+                "type": "subscription",
+                "display_name": "Paramount+",
+                "info": "http://www.paramountplus.com/",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=com.cbs.app",
+                    "android_tv": "com.cbs.app",
+                    "ios": "https://apps.apple.com/us/app/paramount/id530168168",
+                    "web": "http://www.paramountplus.com/"
+                }
+            }
+        ],
+        "contentType": "movie",
+        "first_aired": NaN
+    },
+    {
+        "_id": 32005,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/uT8FZDclIlRImBeYKyoOma3YGej.jpg",
+        "genres": [
+            "Action & Adventure",
+            "Action & Adventure",
+            "Drama",
+            "Thriller"
+        ],
+        "original_title": "Breaking Point",
+        "overview": "\"Breaking Point\" is a dramatic tale of corruption and self-realization, in which one man has to overcome a deep-seated conspiracy and his own lingering past in order to gain the redemption he desires.",
+        "poster_path": "https://image.tmdb.org/t/p/original/s9IyJuj66gvBCgg0PeJV1rqvEUh.jpg",
+        "release_date": "2009-12-04",
+        "title": "Breaking Point",
+        "vote_average": 5.2,
+        "vote_count": 10,
+        "youtube_trailer": "https://www.youtube.com/watch?v=mgZ0SvrCvi4",
+        "sources": [
+            {
+                "source": "crackle_free",
+                "link": "http://www.crackle.com/watch/9144",
+                "type": "free",
+                "display_name": "Crackle",
+                "info": "http://www.crackle.com/",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=com.gotv.crackle.handset",
+                    "android_tv": "com.crackle.androidtv",
+                    "ios": "http://apps.apple.com/app/crackle-movies-tv/id377951542",
+                    "web": "http://www.crackle.com/"
+                }
+            },
+            {
+                "source": "peacock",
+                "link": "https://www.peacocktv.com/watch/asset/movies/action/breaking-point/9e54621e-248e-3447-b421-9c425020ef77",
+                "type": "subscription",
+                "display_name": "Peacock Premium",
+                "info": "https://www.peacocktv.com/",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=com.peacocktv.peacockandroid",
+                    "android_tv": "com.peacocktv.peacockandroid",
+                    "ios": "https://apps.apple.com/us/app/peacock-tv/id1508186374",
+                    "web": "https://www.peacocktv.com/"
+                }
+            },
+            {
+                "source": "peacock_free",
+                "link": "https://www.peacocktv.com/watch/asset/movies/action/breaking-point/9e54621e-248e-3447-b421-9c425020ef77",
+                "type": "free",
+                "display_name": "Peacock",
+                "info": "https://www.peacocktv.com/",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=com.peacocktv.peacockandroid",
+                    "android_tv": "com.peacocktv.peacockandroid",
+                    "ios": "https://apps.apple.com/us/app/peacock-tv/id1508186374",
+                    "web": "https://www.peacocktv.com/"
+                }
+            }
+        ],
+        "contentType": "movie",
+        "first_aired": NaN
+    },
+    {
+        "_id": 69828,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/sG7TMshxVko38lv7fOHrsAhxXhs.jpg",
+        "genres": [
+            "Action & Adventure",
+            "Action & Adventure",
+            "Comedy",
+            "Crime"
+        ],
+        "original_title": "Breaking In",
+        "overview": "Professional thief Ernie takes Mike on as an apprentice, but while Mike clearly has \"larceny in his heart\", it will take him a long time to get as good as Ernie.",
+        "poster_path": "https://image.tmdb.org/t/p/original/73Ge3aqdj577nLkFmGetFtOlB8n.jpg",
+        "release_date": "1989-10-13",
+        "title": "Breaking In",
+        "vote_average": 5.6,
+        "vote_count": 18,
+        "youtube_trailer": "https://www.youtube.com/watch?v=QLpBkQ67JPU",
+        "sources": [],
+        "contentType": "movie",
+        "first_aired": NaN
+    },
+    {
+        "_id": 12543,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/iWhMjSq6dw9beA1AAp96oJR1WAI.jpg",
+        "genres": [
+            "Action & Adventure",
+            "Comedy",
+            "Drama",
+            "Thriller"
+        ],
+        "original_title": "\u5927\u4e8b\u4ef6",
+        "overview": "After a disastrous failure to stop a robber gang, the police attempt to redeem themselves through a series of publicity stunts and shootouts.",
+        "poster_path": "https://image.tmdb.org/t/p/original/pg6MNw3KIdjkJqbo9eElWgaEJak.jpg",
+        "release_date": "2004-06-10",
+        "title": "Breaking News",
+        "vote_average": 7,
+        "vote_count": 127,
+        "youtube_trailer": "https://www.youtube.com/watch?v=rEVC3-6Gv4Q",
+        "sources": [],
+        "contentType": "movie",
+        "first_aired": NaN
+    },
+    {
+        "_id": 254800,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/s5WIdx8ealXYtcyrtjWMAdNYL2a.jpg",
+        "genres": [
+            "Music",
+            "Drama"
+        ],
+        "original_title": "Breaking Through",
+        "overview": "When Casey, a dancer who is discovered on YouTube, gets thrust into the modern world of internet celebrity and culture, she must find a way to balance her true identity with her online persona, or risk losing everything she cares about.",
+        "poster_path": "https://image.tmdb.org/t/p/original/kXTINdJFEa2ORw52pZofcLSAAAb.jpg",
+        "release_date": "2015-08-19",
+        "title": "Breaking Through",
+        "vote_average": 5.6,
+        "vote_count": 51,
+        "youtube_trailer": "https://www.youtube.com/watch?v=iGc8QeYtw14",
+        "sources": [],
+        "contentType": "movie",
+        "first_aired": NaN
+    },
+    {
+        "_id": 454605,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/axKtSO2dBADHGF4gaABap5coN5M.jpg",
+        "genres": [
+            "Family"
+        ],
+        "original_title": "Breaking Legs",
+        "overview": "It's 'Footloose' meets 'Mean Girls' as high school freshman Bloom moves to a town where there's no place to dance - except the school dance team! But when the boyfriend of the team's lead girl falls for her, she'll have to fight to win her place amongst these venomous girls. Breaking Legs is sure one to kick your boots off and pull up your heels, as these kids dance the field away to compete for the homecoming crown at R. Murray High School. Will it be newbie Bloom, or her arch nemesis and Dance Team leader, Harmony? Watch as the two square off in this fun but odd match to the finish. Someone is doomed to 'Break a Leg' on the dance floor, or rather, the football field!",
+        "poster_path": "https://image.tmdb.org/t/p/original/fkZSSDTTLqYlDDNDRQeGkaqPtkk.jpg",
+        "release_date": "2017-04-25",
+        "title": "Breaking Legs",
+        "vote_average": 7,
+        "vote_count": 5,
+        "youtube_trailer": "https://www.youtube.com/watch?v=tX_VvD8qx9g",
+        "sources": [
+            {
+                "source": "tubi_tv_free",
+                "link": "https://tubitv.com/video/477832",
+                "type": "free",
+                "display_name": "Tubi TV",
+                "info": "http://www.tubitv.com",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=com.tubitv",
+                    "android_tv": "com.tubitv",
+                    "ios": "https://apps.apple.com/us/app/tubi-tv-movies-tv-shows/id886445756",
+                    "web": "http://www.tubitv.com"
+                }
+            },
+            {
+                "source": "vudu",
+                "link": "https://www.vudu.com/movies/#!content/841056",
+                "type": "purchase",
+                "display_name": "Vudu",
+                "info": "http://www.vudu.com/",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=air.com.vudu.air.DownloaderTablet",
+                    "android_tv": "air.com.vudu.air.DownloaderTablet",
+                    "ios": "https://apps.apple.com/us/app/vudu-movies-tv/id487285735",
+                    "web": "http://www.vudu.com/"
+                }
+            },
+            {
+                "source": "vudu_free",
+                "link": "https://www.vudu.com/movies/#!content/841056",
+                "type": "free",
+                "display_name": "Vudu",
+                "info": "http://www.vudu.com/",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=air.com.vudu.air.DownloaderTablet",
+                    "android_tv": "air.com.vudu.air.DownloaderTablet",
+                    "ios": "https://apps.apple.com/us/app/vudu-movies-tv/id487285735",
+                    "web": "http://www.vudu.com/"
+                }
+            }
+        ],
+        "contentType": "movie",
+        "first_aired": NaN
+    },
+    {
+        "_id": 461923,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/rBp5s4sKPMp6FUxpegnCaE9t2XO.jpg",
+        "genres": [
+            "Drama",
+            "Family",
+            "Music",
+            "Romance"
+        ],
+        "original_title": "Breaking Brooklyn",
+        "overview": "A 12 year old boy with a passion for dance and his brother are rescued from the streets by an old showman who takes them to live with his estranged former dancing partner/brother.",
+        "poster_path": "https://image.tmdb.org/t/p/original/hgbhlWxPY7bWvSHtYCVw73N2Blw.jpg",
+        "release_date": "2018-05-25",
+        "title": "Breaking Brooklyn",
+        "vote_average": 7.4,
+        "vote_count": 9,
+        "youtube_trailer": "https://www.youtube.com/watch?v=m7eDjX9d2ew",
+        "sources": [
+            {
+                "source": "tubi_tv_free",
+                "link": "https://tubitv.com/video/680204",
+                "type": "free",
+                "display_name": "Tubi TV",
+                "info": "http://www.tubitv.com",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=com.tubitv",
+                    "android_tv": "com.tubitv",
+                    "ios": "https://apps.apple.com/us/app/tubi-tv-movies-tv-shows/id886445756",
+                    "web": "http://www.tubitv.com"
+                }
+            },
+            {
+                "source": "vudu",
+                "link": "https://www.vudu.com/movies/#!content/998208",
+                "type": "purchase",
+                "display_name": "Vudu",
+                "info": "http://www.vudu.com/",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=air.com.vudu.air.DownloaderTablet",
+                    "android_tv": "air.com.vudu.air.DownloaderTablet",
+                    "ios": "https://apps.apple.com/us/app/vudu-movies-tv/id487285735",
+                    "web": "http://www.vudu.com/"
+                }
+            },
+            {
+                "source": "vudu_free",
+                "link": "https://www.vudu.com/movies/#!content/998208",
+                "type": "free",
+                "display_name": "Vudu",
+                "info": "http://www.vudu.com/",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=air.com.vudu.air.DownloaderTablet",
+                    "android_tv": "air.com.vudu.air.DownloaderTablet",
+                    "ios": "https://apps.apple.com/us/app/vudu-movies-tv/id487285735",
+                    "web": "http://www.vudu.com/"
+                }
+            }
+        ],
+        "contentType": "movie",
+        "first_aired": NaN
+    },
+    {
+        "_id": 20283,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/fOfLYvd2BTKsOzbC3cz8ZpjDdFa.jpg",
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "original_title": "Breaking Away",
+        "overview": "Dave, nineteen, has just graduated high school, with his 3 friends, The comical Cyril, the warm hearted but short-tempered Moocher, and the athletic, spiteful but good-hearted Mike. Now, Dave enjoys racing bikes and hopes to race the Italians one day, and even takes up the Italian culture, much to his friends and parents annoyance.",
+        "poster_path": "https://image.tmdb.org/t/p/original/k7b5GsVJK1hfdwoYqcczN9pBba6.jpg",
+        "release_date": "1979-05-24",
+        "title": "Breaking Away",
+        "vote_average": 7.2,
+        "vote_count": 219,
+        "youtube_trailer": "https://www.youtube.com/watch?v=J1jzs6dk4bs",
+        "sources": [
+            {
+                "source": "vudu",
+                "link": "https://www.vudu.com/movies/#!content/7888",
+                "type": "purchase",
+                "display_name": "Vudu",
+                "info": "http://www.vudu.com/",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=air.com.vudu.air.DownloaderTablet",
+                    "android_tv": "air.com.vudu.air.DownloaderTablet",
+                    "ios": "https://apps.apple.com/us/app/vudu-movies-tv/id487285735",
+                    "web": "http://www.vudu.com/"
+                }
+            },
+            {
+                "source": "apple_tv",
+                "link": "https://tv.apple.com/us/movie/breaking-away/umc.cmc.7526wkadp21wnpespa18y2v7p",
+                "type": "purchase",
+                "display_name": "Apple TV",
+                "info": "https://tv.apple.com/",
+                "platform": {
+                    "ios": "https://apps.apple.com/us/app/apple-tv/id1174078549",
+                    "web": "https://tv.apple.com/"
+                }
+            }
+        ],
+        "contentType": "movie",
+        "first_aired": NaN
+    },
+    {
+        "_id": 1396,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/bsNm9z2TJfe0WO3RedPGWQ8mG1X.jpg",
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "original_title": "Breaking Bad",
+        "overview": "When Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+        "poster_path": "https://image.tmdb.org/t/p/original/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+        "release_date": NaN,
+        "title": "Breaking Bad",
+        "vote_average": 8.9,
+        "vote_count": 11647,
+        "youtube_trailer": "https://www.youtube.com/watch?v=XZ8daibM3AE",
+        "sources": [
+            {
+                "source": "netflix",
+                "link": "https://www.netflix.com/watch/70143836",
+                "type": "subscription",
+                "display_name": "Netflix",
+                "info": "http://www.netflix.com/",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient",
+                    "android_tv": "com.netflix.ninja",
+                    "ios": "http://apps.apple.com/app/netflix/id363590051",
+                    "web": "http://www.netflix.com/"
+                }
+            },
+            {
+                "source": "vudu",
+                "link": "https://www.vudu.com/movies/#!content/205516",
+                "type": "purchase",
+                "display_name": "Vudu",
+                "info": "http://www.vudu.com/",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=air.com.vudu.air.DownloaderTablet",
+                    "android_tv": "air.com.vudu.air.DownloaderTablet",
+                    "ios": "https://apps.apple.com/us/app/vudu-movies-tv/id487285735",
+                    "web": "http://www.vudu.com/"
+                }
+            }
+        ],
+        "contentType": "show",
+        "first_aired": "2008-01-20"
+    },
+    {
+        "_id": 78821,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/bFdVXwUAG0WXzkweSIsjvmGQ0KR.jpg",
+        "genres": [
+            "Crime",
+            "Documentary"
+        ],
+        "original_title": "Breaking Homicide",
+        "overview": "Former Rhode Island police Sgt. Derrick Levasseur and forensic psychologist Kris Mohandie answer the pleas of desperate families and investigate murder cases that have officially gone cold.",
+        "poster_path": "https://image.tmdb.org/t/p/original/p6NMEDamsp6VpAC9vHem6kOsth8.jpg",
+        "release_date": NaN,
+        "title": "Breaking Homicide",
+        "vote_average": 6.3,
+        "vote_count": 3,
+        "youtube_trailer": "https://www.youtube.com/watch?v=ugfGUfiWJpM",
+        "sources": [
+            {
+                "source": "vudu",
+                "link": "https://www.vudu.com/movies/#!content/942411",
+                "type": "purchase",
+                "display_name": "Vudu",
+                "info": "http://www.vudu.com/",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=air.com.vudu.air.DownloaderTablet",
+                    "android_tv": "air.com.vudu.air.DownloaderTablet",
+                    "ios": "https://apps.apple.com/us/app/vudu-movies-tv/id487285735",
+                    "web": "http://www.vudu.com/"
+                }
+            }
+        ],
+        "contentType": "show",
+        "first_aired": "2018-04-15"
+    },
+    {
+        "_id": 132158,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/e1OGESutD3wBRoHw3I280v6L5Ux.jpg",
+        "genres": [
+            "Crime"
+        ],
+        "original_title": "\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e25\u0e27\u0e07",
+        "overview": "The six-episode series is centered around the wild world of Bangkok's road rescue services and Wanchai who is newly arrived in Bangkok and must unravel a city-wide conspiracy alongside a young, upstart journalist.",
+        "poster_path": "https://image.tmdb.org/t/p/original/nAru8tj4RXbLzDL3r89QoVyP6FY.jpg",
+        "release_date": NaN,
+        "title": "Bangkok Breaking",
+        "vote_average": 6.788,
+        "vote_count": 52,
+        "youtube_trailer": "https://www.youtube.com/watch?v=undefined",
+        "sources": [
+            {
+                "source": "netflix",
+                "link": "https://www.netflix.com/watch/81287826",
+                "type": "subscription",
+                "display_name": "Netflix",
+                "info": "http://www.netflix.com/",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient",
+                    "android_tv": "com.netflix.ninja",
+                    "ios": "http://apps.apple.com/app/netflix/id363590051",
+                    "web": "http://www.netflix.com/"
+                }
+            }
+        ],
+        "contentType": "show",
+        "first_aired": "2021-09-23"
+    },
+    {
+        "_id": 45754,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/n3H3BI6Nj9UvDD8WlL4RVZs9PfY.jpg",
+        "genres": [
+            "Documentary"
+        ],
+        "original_title": "Breaking Amish",
+        "overview": "Temptations abound as a group of young Amish explore life beyond their Amish culture. Ultimately, they will make the biggest decision of their lives \u2013 to remain Amish/Mennonite or become English and face the consequences of being shunned by their family and friends.",
+        "poster_path": "https://image.tmdb.org/t/p/original/74wVDELZwZAHLS5DAEuGItM82YX.jpg",
+        "release_date": NaN,
+        "title": "Breaking Amish",
+        "vote_average": 5.8,
+        "vote_count": 10,
+        "youtube_trailer": "https://www.youtube.com/watch?v=undefined",
+        "sources": [
+            {
+                "source": "tubi_tv_free",
+                "link": "https://tubitv.com/series/300010281",
+                "type": "free",
+                "display_name": "Tubi TV",
+                "info": "http://www.tubitv.com",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=com.tubitv",
+                    "android_tv": "com.tubitv",
+                    "ios": "https://apps.apple.com/us/app/tubi-tv-movies-tv-shows/id886445756",
+                    "web": "http://www.tubitv.com"
+                }
+            },
+            {
+                "source": "vudu",
+                "link": "https://www.vudu.com/movies/#!content/381226",
+                "type": "purchase",
+                "display_name": "Vudu",
+                "info": "http://www.vudu.com/",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=air.com.vudu.air.DownloaderTablet",
+                    "android_tv": "air.com.vudu.air.DownloaderTablet",
+                    "ios": "https://apps.apple.com/us/app/vudu-movies-tv/id487285735",
+                    "web": "http://www.vudu.com/"
+                }
+            }
+        ],
+        "contentType": "show",
+        "first_aired": "2012-09-09"
+    },
+    {
+        "_id": 46568,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/1bK0VjhrzPRhRQXP8irOuShlveP.jpg",
+        "genres": [
+            "Drama"
+        ],
+        "original_title": "\ucee4\ud50c\ube0c\ub808\uc774\ud0b9",
+        "overview": "Park Han Byul and Park Kwang Hyun star in this bubbly drama about a committed couple who realize they might not belong together at all. Jeong-seok and Yeo-kyung have been dating for years. Jeong-seok is uncultured and poor, while Yeo-kyung is polished and rich. They both begin to feel dissatisfied, and then they both meet someone else. Can true love overcome habit? Couple Breaking is a light-hearted four-episode mini about romantic switcheroos.",
+        "poster_path": "https://image.tmdb.org/t/p/original/as5r4xb6QhJs2hAt2iO3iJzogej.jpg",
+        "release_date": NaN,
+        "title": "Couple Breaking",
+        "vote_average": 0,
+        "vote_count": 0,
+        "youtube_trailer": "https://www.youtube.com/watch?v=undefined",
+        "sources": [],
+        "contentType": "show",
+        "first_aired": "2007-09-27"
+    },
+    {
+        "_id": 80131,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/62uKAkIw04RGjKw9NPbErc8bAW7.jpg",
+        "genres": [
+            "Documentary"
+        ],
+        "original_title": "Breaking Big",
+        "overview": "Why and how did some of the world's most influential artists, innovators, athletes and leaders break big? Talented men and women recount their most difficult, dramatic and serendipitous turning points.",
+        "poster_path": "https://image.tmdb.org/t/p/original/4Rg2nu48ApEhKDmV77xS4liI1zN.jpg",
+        "release_date": NaN,
+        "title": "Breaking Big",
+        "vote_average": 2,
+        "vote_count": 1,
+        "youtube_trailer": "https://www.youtube.com/watch?v=RowHQ5-YXQI",
+        "sources": [
+            {
+                "source": "vudu",
+                "link": "https://www.vudu.com/movies/#!content/958375",
+                "type": "purchase",
+                "display_name": "Vudu",
+                "info": "http://www.vudu.com/",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=air.com.vudu.air.DownloaderTablet",
+                    "android_tv": "air.com.vudu.air.DownloaderTablet",
+                    "ios": "https://apps.apple.com/us/app/vudu-movies-tv/id487285735",
+                    "web": "http://www.vudu.com/"
+                }
+            }
+        ],
+        "contentType": "show",
+        "first_aired": "2018-06-15"
+    },
+    {
+        "_id": 225251,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/ukKUcIDV3gyxGyhx6B84Zl843or.jpg",
+        "genres": [
+            "Reality-TV"
+        ],
+        "original_title": "Breaking Borders",
+        "overview": "Seasoned journalist Mariana Van Zeller and acclaimed chef Michael Voltaggio travel into areas of conflict and unrest across the globe with hopes of bringing people together around the table to break bread and engage in dialogue.",
+        "poster_path": "https://image.tmdb.org/t/p/original/xVPhRj2OATMrXHOVjcyAaJJA7N.jpg",
+        "release_date": NaN,
+        "title": "Breaking Borders",
+        "vote_average": 0,
+        "vote_count": 0,
+        "youtube_trailer": "https://www.youtube.com/watch?v=undefined",
+        "sources": [
+            {
+                "source": "vudu",
+                "link": "https://www.vudu.com/movies/#!content/655929",
+                "type": "purchase",
+                "display_name": "Vudu",
+                "info": "http://www.vudu.com/",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=air.com.vudu.air.DownloaderTablet",
+                    "android_tv": "air.com.vudu.air.DownloaderTablet",
+                    "ios": "https://apps.apple.com/us/app/vudu-movies-tv/id487285735",
+                    "web": "http://www.vudu.com/"
+                }
+            }
+        ],
+        "contentType": "show",
+        "first_aired": "2015-03-15"
+    },
+    {
+        "_id": 43151,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/2MfilSH9DiTgCWCM08PGwoKP9xl.jpg",
+        "genres": [
+            "Reality-TV"
+        ],
+        "original_title": "Breaking Pointe",
+        "overview": "Goes behind the stage curtain for an intense, unfiltered look at one of the most competitive ballet companies in the country, Ballet West, in Salt Lake City, Utah. Beneath the beauty and glamour of the dance and costumes is a gritty dog-eat-dog world of extreme athleticism, focus, dedication, passion, pressure and, of course, the hunt for the unattainable... perfection.",
+        "poster_path": "https://image.tmdb.org/t/p/original/2bOwRDraB1m8SUEq6twgd8vYobk.jpg",
+        "release_date": NaN,
+        "title": "Breaking Pointe",
+        "vote_average": 6.5,
+        "vote_count": 3,
+        "youtube_trailer": "https://www.youtube.com/watch?v=undefined",
+        "sources": [
+            {
+                "source": "vudu",
+                "link": "https://www.vudu.com/movies/#!content/351396",
+                "type": "purchase",
+                "display_name": "Vudu",
+                "info": "http://www.vudu.com/",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=air.com.vudu.air.DownloaderTablet",
+                    "android_tv": "air.com.vudu.air.DownloaderTablet",
+                    "ios": "https://apps.apple.com/us/app/vudu-movies-tv/id487285735",
+                    "web": "http://www.vudu.com/"
+                }
+            }
+        ],
+        "contentType": "show",
+        "first_aired": "2012-05-31"
+    },
+    {
+        "_id": 34541,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/9ayox8zhcllxKRjP3NA5KBp5M5v.jpg",
+        "genres": [
+            "Comedy",
+            "Action & Adventure",
+            "Drama"
+        ],
+        "original_title": "Breaking In",
+        "overview": "Contra Security is a high tech security firm that specializes in breaking in as a way to test security measures. The team members comprise various skills, and even more various personalities.",
+        "poster_path": "https://image.tmdb.org/t/p/original/cDEglbhl4g6yFg203agZAOm8m3b.jpg",
+        "release_date": NaN,
+        "title": "Breaking In",
+        "vote_average": 6.615,
+        "vote_count": 52,
+        "youtube_trailer": "https://www.youtube.com/watch?v=XaVpKVDeQEE",
+        "sources": [
+            {
+                "source": "vudu",
+                "link": "https://www.vudu.com/movies/#!content/196116",
+                "type": "purchase",
+                "display_name": "Vudu",
+                "info": "http://www.vudu.com/",
+                "platform": {
+                    "android": "https://play.google.com/store/apps/details?id=air.com.vudu.air.DownloaderTablet",
+                    "android_tv": "air.com.vudu.air.DownloaderTablet",
+                    "ios": "https://apps.apple.com/us/app/vudu-movies-tv/id487285735",
+                    "web": "http://www.vudu.com/"
+                }
+            }
+        ],
+        "contentType": "show",
+        "first_aired": "2011-04-06"
+    },
+    {
+        "_id": 138456,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/cxnguLakSLqRtTdJuSUxvtajSSo.jpg",
+        "genres": [],
+        "original_title": "Breaking the News",
+        "overview": "TV version of Radio Scotland's topical panel show, hosted by Des Clarke,  takes a satirical view of the week's headlines.",
+        "poster_path": "https://image.tmdb.org/t/p/original/gPp7BJm7D6demi7peJzjVQwvKFH.jpg",
+        "release_date": NaN,
+        "title": "Breaking the News",
+        "vote_average": 0,
+        "vote_count": 0,
+        "youtube_trailer": "https://www.youtube.com/watch?v=undefined",
+        "sources": [],
+        "contentType": "show",
+        "first_aired": null
+    }
+]
