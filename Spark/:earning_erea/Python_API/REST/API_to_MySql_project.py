@@ -96,10 +96,10 @@ def run():
     dict_movie = extract_key_value(request_dict, key_list)
     
     # -- lower dict value --
-    dict_monie_lower = dict_value_lower(dict_movie)
+    dict_movie_lower = dict_value_lower(dict_movie)
 
     # -- normelaize list of dicts in json using panda --
-    flat_json = flatten(dict_monie_lower)
+    flat_json = flatten(dict_movie_lower)
 
     # -- convert to pandas object --
     lst_dict_movie = [flat_json]
