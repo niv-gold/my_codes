@@ -14,6 +14,7 @@ json_str = df.to_json()
 print(json_str)
 
 # Convert DataFrame to JSON with different orientations
+
 json_records = df.to_json(orient='records')
 json_columns = df.to_json(orient='columns')
 json_index = df.to_json(orient='index')
