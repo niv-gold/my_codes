@@ -106,7 +106,7 @@ def run():
     pd_df = pd.DataFrame(lst_dict_movie) 
 
     #==============================================
-    # Writing dataa to Mysql
+    # Writing data to Mysql
     #==============================================
     # -- create an engine to mysql --
     engine = create_sqlAlchemy_engine(username, password, dbname)
