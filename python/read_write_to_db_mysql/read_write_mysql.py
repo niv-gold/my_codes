@@ -50,8 +50,7 @@ def main():
     # create mysql engine:
     DWH_engine = my_sql_engine(mysql_user, mysql_password, mysql_host_name, mysql_db)
 
-    # create tables
-    
+    # with inable transaction connection to mysql management.
     with DWH_engine.connect() as connection:
         trans = connection.begin()
         try:
