@@ -1,12 +1,19 @@
-import numpy as np
+import pandas as pd
 
-# Create large arrays of random floats
-array_float32 = np.random.rand(1000000).astype(np.float32)
-array_float16 = np.random.rand(1000000).astype(np.float16)
+# Sample data
+data = {
+    'Date': pd.date_range(start='2021-01-01', periods=90, freq='D'),
+    'Value': range(1, 91)
+}
+df = pd.DataFrame(data)
 
-# Calculate the memory size in bytes
-size_float32 = array_float32.nbytes
-size_float16 = array_float16.nbytes
+# Ensure the 'Date' column is of datetime type
+df['Date'] = pd.to_datetime(df['Date'])
 
-print(f"Memory usage for float32 array: {size_float32} bytes")
-print(f"Memory usage for float16 array: {size_float16} bytes")
+# Create year-month identifier
+df['YearMonth'] = df['Date'].dt.to_period('M')
+
+# Rank rows within each month based on 'Value' in descending order
+df['MonthlyRank'] = df.groupby('YearMonth')['Value'].rank(method='first', ascending=False)
+
+print(df.head(10))
