@@ -1,14 +1,12 @@
-import requests
+import pandas as pd
+import numpy as np
 
-url = "https://covid-19-data.p.rapidapi.com/country/code"
 
-querystring = {"format":"json","code":"it"}
+word1 = 'abcdef'
+l_1 = len(word1)
 
-headers = {
-	"x-rapidapi-key": "2ad05ca92cmshc7100dfdd7e411cp10b600jsnfa918e7ff684",
-	"x-rapidapi-host": "covid-19-data.p.rapidapi.com"
-}
+print(l_1)
+print(word1[l_1:])
 
-response = requests.get(url, headers=headers, params=querystring)
-
-print(response.json())
+print(word1[l_1+1:])
+print(word1[l_1+100:])
