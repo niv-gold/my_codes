@@ -1,4 +1,7 @@
 
-print('Starting pipeline')
+def main()-> None:
+    print('Starting pipeline...')
+    print('Done')
 
-print('Done')
+if __name__=="__main__":
+    main()
