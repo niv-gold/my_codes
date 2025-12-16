@@ -1,7 +1,12 @@
-from s3_client import S3Client
-from config import S3Config
+from nyc_taxi.uploading.core.s3_client import S3Client
+from nyc_taxi.uploading.config.config import S3Config
+from nyc_taxi.uploading.core.local_file_manager import LocalFilesManager
 
 def run():
+
+    lfm_inst = LocalFilesManager(s3_config)
+    lfm_inst.run()
+
     s3_config = S3Config()
     s3_inst = S3Client(s3_config)
     s3_inst.extract_and_load_file(

@@ -1,6 +1,6 @@
 # upload/s3_client.py
 import boto3
-from config import S3Config
+from nyc_taxi.uploading.config.config import S3Config
 
 class S3Client:
     def __init__(self, config: S3Config):
@@ -12,7 +12,7 @@ class S3Client:
             region_name=config.region_name,
         )
     
-    def S3_extract_and_load_file(self, local_file_path: str, s3_key: str):
+    def extract_and_load_file(self, local_file_path: str, s3_key: str):
         """Uploads a file to the specified S3 bucket and key."""
         self._client.upload_file(
             Filename=local_file_path,
