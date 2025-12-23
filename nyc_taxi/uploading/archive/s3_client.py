@@ -1,6 +1,6 @@
 # upload/s3_client.py
 import boto3
-from nyc_taxi.uploading.config.config import S3Config
+from nyc_taxi.uploading.archive.config import S3Config
 
 class S3Client:
     def __init__(self, config: S3Config):

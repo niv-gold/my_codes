@@ -1,4 +1,4 @@
-from nyc_taxi.uploading.config.config import S3Config
+from nyc_taxi.uploading.archive.config import S3Config
 import os
 from dotenv import load_dotenv
 
