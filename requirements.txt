@@ -1,0 +1,18 @@
+# Core
+pandas>=2.2
+numpy>=1.26
+pyarrow>=15.0       # fast parquet I/O
+
+# Validation
+great-expectations>=0.18
+
+# Testing
+pytest>=8.0
+chispa>=0.9          # DataFrame equality assertions
+
+# Utilities
+python-dotenv>=1.0
+loguru>=0.7          # structured logging
+tqdm>=4.66           # progress bars
+
+ipython>=8.0       # nice REPL for ad-hoc queries

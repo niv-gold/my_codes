@@ -1,0 +1,51 @@
+employee_id,employee_key,first_name,last_name,email,phone,job_title,department,region,manager_id,hire_date,termination_date,employment_status,annual_salary_usd,commission_rate_pct,quota_usd,years_of_experience,created_at,updated_at
+1,EMP-0001,Alec,Lucero,terryjesse@fields-wallace.org,+1-904-347-0856x0940,Sales Rep,Inside Sales,International,,2011-06-30,,Active,167482.92,5.8,1375587.63,14,2011-06-30,2024-04-18T07:17:33.597304
+2,EMP-0002,Stephen,Lewis,gonzalezjose@hines-price.com,522.975.7940x7403,Sales Rep,Channel Sales,Southeast,,2021-10-14,,Active,130916.28,8.2,449429.68,20,2021-10-14,2024-04-07T04:22:06.458269
+3,EMP-0003,Beverly,Morse,osmith@franklin.com,(894)912-6410x6032,Sales Rep,Retail,Northeast,,2018-11-30,,Active,125941.7,9.3,1901880.23,11,2018-11-30,2024-05-08T07:36:28.860365
+4,EMP-0004,Jacqueline,Hawkins,tracy63@jennings.com,7895654612,Sales Rep,Retail,Southeast,,2023-07-22,,Active,67471.95,8.3,1431853.51,12,2023-07-22,2024-05-24T23:54:41.928875
+5,EMP-0005,Keith,Brown,hroberts@marshall-evans.net,(398)294-8481x7036,Sales Rep,Sales,International,,2015-08-08,,Active,126181.25,9.9,900810.89,17,2015-08-08,2024-12-27T16:35:34.780627
+6,EMP-0006,Stephen,Mcdonald,wallacestephanie@valdez.org,893-230-7811x1719,Sales Rep,Inside Sales,Southeast,,2023-04-13,,Active,106798.8,9.2,630767.58,16,2023-04-13,2024-12-29T07:52:51.900578
+7,EMP-0007,Andrew,Weeks,justin15@sweeney-henderson.com,433.584.9655,Sales Rep,Inside Sales,Midwest,,2014-01-03,,Active,62907.76,2.6,255601.57,19,2014-01-03,2024-07-26T17:19:55.452024
+8,EMP-0008,Kimberly,Johnson,jessicaward@walter.com,+1-999-526-6536x197,Sales Rep,Channel Sales,West,,2011-07-28,,Active,78081.34,8.0,1981483.99,6,2011-07-28,2024-02-07T23:28:39.174937
+9,EMP-0009,Suzanne,Booth,jbenson@hunter-robbins.com,985.886.5392,Sales Rep,Channel Sales,Central,,2016-07-20,,Active,131586.2,10.0,1708175.81,6,2016-07-20,2024-07-21T13:08:12.917415
+10,EMP-0010,Jose,Miller,joshuagonzalez@kline.org,(470)360-5581x7357,Account Executive,Inside Sales,West,,2019-07-27,,Active,142476.25,2.7,1547495.43,22,2019-07-27,2024-11-18T09:15:58.470735
+11,EMP-0011,Derek,Johnson,sarahwatson@long-morales.org,+1-297-501-4557,Account Executive,Channel Sales,Central,8.0,2011-10-02,,Active,161392.81,2.7,950761.3,9,2011-10-02,2024-08-07T08:14:57.328873
+12,EMP-0012,Doris,Alvarez,ramseyvalerie@mckay-aguilar.com,(252)390-5092x600,Account Executive,Retail,Northeast,10.0,2013-06-03,,Active,132357.06,7.3,242696.23,16,2013-06-03,2024-10-13T20:38:59.876821
+13,EMP-0013,Daniel,Townsend,millermark@perry.info,584.249.8121,Account Executive,Sales,Midwest,7.0,2021-06-24,,Active,156821.54,9.3,271831.63,13,2021-06-24,2024-01-18T03:46:59.610321
+14,EMP-0014,William,Rios,alyssaturner@collier-weber.net,(572)833-1044x8177,Account Executive,Retail,International,8.0,2020-08-31,,Active,102859.45,3.2,462770.73,9,2020-08-31,2024-11-09T07:47:30.076964
+15,EMP-0015,Tara,Hardy,obriendavid@barton.net,(320)963-1864,Account Executive,Retail,Northeast,3.0,2023-07-14,,Active,94472.71,8.6,455510.18,8,2023-07-14,2024-05-20T16:37:35.635497
+16,EMP-0016,Courtney,Robbins,moorerobert@vaughn.org,968.835.9916,Account Executive,Channel Sales,Southeast,5.0,2019-03-14,,Active,58111.97,8.4,333325.2,23,2019-03-14,2024-04-10T06:04:11.356977
+17,EMP-0017,Dylan,Harrington,marquezjessica@white.net,(667)712-6937,Account Executive,Channel Sales,Southeast,5.0,2022-01-22,,Active,91229.79,8.9,795190.18,15,2022-01-22,2024-11-05T12:16:26.532432
+18,EMP-0018,Jacob,Lopez,qgill@sutton-ramirez.com,001-668-268-1114x330,Account Executive,Enterprise Sales,Central,5.0,2012-05-20,,Active,125247.8,9.6,466443.15,10,2012-05-20,2024-08-09T10:19:05.701691
+19,EMP-0019,Luke,Porter,randalllogan@wheeler-keller.com,001-662-878-7902x591,Account Executive,Sales,Southeast,6.0,2017-06-29,,Active,121077.82,9.1,751992.91,23,2017-06-29,2024-12-15T01:26:31.325951
+20,EMP-0020,Darren,White,bfoster@thomas.net,518-902-9559x9977,Senior AE,Inside Sales,Central,5.0,2016-09-29,,Active,109163.45,6.4,730783.31,24,2016-09-29,2024-12-21T01:59:06.156438
+21,EMP-0021,James,Rivas,ufarrell@jones-nixon.com,874-411-1736x703,Senior AE,Inside Sales,Southeast,10.0,2021-06-26,,Active,84464.94,5.8,1346172.19,1,2021-06-26,2024-12-17T20:03:56.545934
+22,EMP-0022,Denise,Roy,garciamichael@carter.com,4806563082,Senior AE,Inside Sales,Central,5.0,2015-08-31,,Active,65029.05,2.1,855491.23,17,2015-08-31,2024-12-29T21:17:01.403640
+23,EMP-0023,William,Walker,laurenwilliams@vega-boyd.com,427-436-5485,Senior AE,Retail,West,8.0,2018-01-20,,Active,128492.1,3.7,819584.38,5,2018-01-20,2024-01-01T23:26:52.049715
+24,EMP-0024,Caleb,Cole,piercedevin@king-nunez.biz,+1-327-296-3651x2955,Senior AE,Retail,Central,6.0,2011-12-06,,Active,115650.55,5.8,1866948.14,21,2011-12-06,2024-01-07T16:55:34.426285
+25,EMP-0025,Christopher,Palmer,haley42@patterson.com,001-400-536-0722x350,Senior AE,Inside Sales,Central,8.0,2015-03-29,,Active,68677.29,11.0,225618.67,3,2015-03-29,2024-01-02T00:46:33.006245
+26,EMP-0026,Elizabeth,Vega,james75@andrews.org,(880)891-6631,Senior AE,Enterprise Sales,Southeast,5.0,2023-01-14,,Active,72867.95,3.5,1295554.22,24,2023-01-14,2024-08-12T01:42:29.091472
+27,EMP-0027,Thomas,Lowe,wrightmichele@brooks-browning.com,2616664970,Senior AE,Sales,International,4.0,2022-01-20,,Active,93127.7,6.6,1842864.51,1,2022-01-20,2024-04-16T04:40:35.121362
+28,EMP-0028,Andrea,Garcia,burnskevin@dougherty.com,001-824-811-5050,Senior AE,Retail,Southeast,4.0,2020-08-02,,Active,94080.64,2.3,1327523.65,11,2020-08-02,2024-02-06T03:07:00.697924
+29,EMP-0029,James,Rivera,jeanettewatson@sanchez.net,7586837743,Senior AE,Retail,Northeast,5.0,2020-05-12,,Active,119693.4,7.3,1534264.2,3,2020-05-12,2024-09-27T21:39:11.884220
+30,EMP-0030,Melissa,Torres,vthompson@berg.com,915-925-5862,Sales Manager,Sales,West,10.0,2023-10-06,,Active,115598.09,4.4,1635085.76,6,2023-10-06,2024-09-14T17:01:41.387617
+31,EMP-0031,Gregory,Williams,birdjoshua@smith.com,+1-680-497-1861,Sales Manager,Inside Sales,Southeast,8.0,2017-12-17,,Active,68953.14,11.8,678374.01,9,2017-12-17,2024-03-06T04:21:00.883037
+32,EMP-0032,Jeffrey,Bernard,susan45@suarez.com,001-367-557-7991,Sales Manager,Sales,International,4.0,2024-04-18,,Active,144000.53,11.2,1831053.74,5,2024-04-18,2024-10-14T09:40:31.796530
+33,EMP-0033,Lauren,Walker,katherine76@ramos.com,001-411-460-8958x970,Sales Manager,Retail,Midwest,1.0,2024-04-06,,Active,73043.83,4.4,1571024.89,16,2024-04-06,2024-02-12T13:27:13.231550
+34,EMP-0034,Nicholas,Boyd,gbrown@nelson.com,(689)889-9307,Sales Manager,Channel Sales,Northeast,9.0,2012-12-15,,Active,164021.5,2.5,1622029.03,3,2012-12-15,2024-11-26T07:35:37.945933
+35,EMP-0035,Julie,Cross,mray@owens.com,001-760-833-8788x528,Sales Manager,Inside Sales,West,2.0,2020-09-03,,Active,104656.24,6.8,379776.64,19,2020-09-03,2024-07-06T14:03:33.715808
+36,EMP-0036,Kendra,Scott,tanyamcdonald@sanchez.com,+1-907-637-9499x9445,Sales Manager,Inside Sales,Central,8.0,2011-07-07,,Active,85494.73,2.1,973560.17,4,2011-07-07,2024-11-14T06:06:44.300387
+37,EMP-0037,Daniel,Mccarty,kpowell@simmons.com,534-775-9160x4359,Sales Manager,Channel Sales,International,4.0,2014-06-19,,Active,124506.57,8.3,1559977.49,1,2014-06-19,2024-12-15T11:00:17.820187
+38,EMP-0038,Michelle,Yang,tburnett@burch.info,937.556.8167x84340,Sales Manager,Enterprise Sales,West,10.0,2019-03-07,,Active,81550.33,8.3,791550.92,16,2019-03-07,2024-01-21T18:50:10.231954
+39,EMP-0039,Elizabeth,Drake,yowens@beard.com,700-678-8369x22338,Sales Manager,Retail,Midwest,5.0,2016-05-20,,Active,80666.99,7.3,814056.11,22,2016-05-20,2024-01-05T23:56:13.516728
+40,EMP-0040,Riley,Matthews,david85@cannon.com,+1-665-232-7355x1497,Regional Director,Retail,Central,5.0,2023-01-13,,Active,129499.43,3.1,1561902.01,6,2023-01-13,2024-03-09T22:40:55.847169
+41,EMP-0041,John,Olson,carterlaura@mercado-richards.com,855-670-2006x17413,Regional Director,Channel Sales,Northeast,6.0,2023-12-18,,Active,165604.57,7.1,1092418.27,6,2023-12-18,2024-04-07T03:52:45.469017
+42,EMP-0042,Michael,Hill,hlloyd@rodriguez.com,+1-491-527-0650x7612,Regional Director,Sales,West,5.0,2023-06-16,,Active,57766.68,10.6,816377.1,22,2023-06-16,2024-08-28T04:11:41.068856
+43,EMP-0043,Michael,Phillips,wgrant@lambert.com,(955)995-0263x560,Regional Director,Retail,Southeast,4.0,2019-02-12,,Active,150136.89,9.6,583789.61,17,2019-02-12,2024-06-27T08:20:34.081244
+44,EMP-0044,Laurie,Collins,jessetaylor@hodge-lee.org,8464008236,Regional Director,Enterprise Sales,Midwest,9.0,2017-10-08,,Active,108703.21,8.8,1869592.7,7,2017-10-08,2024-12-12T23:35:05.304471
+45,EMP-0045,Sarah,Smith,edwardelliott@rush-rhodes.biz,379-406-7015,Regional Director,Retail,International,3.0,2016-02-11,,Active,88708.33,3.9,913231.98,6,2016-02-11,2024-01-15T03:42:08.565921
+46,EMP-0046,Melinda,King,bryantcarol@gaines.com,001-418-333-3919x296,Regional Director,Inside Sales,Central,3.0,2012-12-26,,Terminated,88966.97,7.2,1052795.36,20,2012-12-26,2024-01-01T21:28:19.687831
+47,EMP-0047,Angel,Miller,samanthawilliams@hurst.com,937.474.2705x49857,Regional Director,Channel Sales,International,5.0,2014-11-11,,Terminated,75877.69,4.6,1881793.96,10,2014-11-11,2024-11-21T23:35:37.056504
+48,EMP-0048,Bryan,Lee,heatherstone@burgess.com,(998)804-4665x89524,Regional Director,Enterprise Sales,Southeast,5.0,2023-06-17,,Terminated,90052.49,5.5,1541385.08,15,2023-06-17,2024-01-05T19:25:48.234004
+49,EMP-0049,Lori,Short,qmercado@moore-burton.com,(957)637-8747,Regional Director,Enterprise Sales,West,10.0,2018-03-09,,Terminated,98128.2,6.2,1572000.94,13,2018-03-09,2024-01-06T03:48:06.290099
+50,EMP-0050,Heidi,Obrien,dstewart@rowe-brown.biz,629-488-9728,VP of Sales,Sales,West,6.0,2010-01-19,,Terminated,132182.02,3.4,1022401.49,9,2010-01-19,2024-05-25T23:48:37.772982
